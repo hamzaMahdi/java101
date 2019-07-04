@@ -15,3 +15,15 @@ Char
 String
 Length
 Print
+
+----------------------------------------------------------------------------------------------------------------------
+
+Write a function that takes an array of strings an prints them, one per line, in a rectangular frame. For example the list {"Hello", "World", "in", "a", "frame"} gets printed as:
+
+*********
+* Hello *
+* World *
+* in    *
+* a     *
+* frame *
+*********
